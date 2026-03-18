@@ -1,0 +1,4 @@
+D:\Florea\Proiect\frdmmcxn947_led_blinky_peripheral_cm33_core0\drivers/fsl_gpio.h:374:20:GPIO_PortSet	16	static
+D:\Florea\Proiect\frdmmcxn947_led_blinky_peripheral_cm33_core0\drivers/fsl_gpio.h:389:20:GPIO_PortClear	16	static
+../source/led_blinky.c:25:6:SysTick_Handler	16	static
+../source/led_blinky.c:49:5:main	8	static
